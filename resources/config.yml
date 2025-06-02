@@ -1,0 +1,2 @@
+cron:
+  Every30SecSayHello: "*/30 * * * * *"
